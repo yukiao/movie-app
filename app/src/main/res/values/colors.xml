@@ -13,4 +13,5 @@
     <color name="background">#070D2D</color>
     <color name="active_tab_color">#546ee5</color>
     <color name="inactive_tab_color">#3e4265</color>
+    <color name="star_fill">#ffa235</color>
 </resources>
